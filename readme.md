@@ -13,7 +13,7 @@ This is an implementation of Airtel App's Recharge screen in React Native.
 Clone this repository.
 
 ```bash
-  git clone
+  git clone git@github.com:itsrayaaan/RechargeApp.git
 
   cd ReachargeApp
 ```
