@@ -13,7 +13,7 @@ This is an implementation of Airtel App's Recharge screen in React Native.
 Clone this repository.
 
 ```bash
-  git clone git@github.com:itsrayaaan/RechargeApp.git
+  git clone git@github.com:itsrayaaan/facebook_like_button_RN.git
 
   cd ReachargeApp
 ```
@@ -26,7 +26,7 @@ Install the Dependencies
   cd ios && pod install
 ```
 
-Run it on your device
+Run it on your device or simulator
 
 ```bash
   react-native run-ios
