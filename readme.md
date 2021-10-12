@@ -1,4 +1,4 @@
-# Facebook Like Button
+# Recharge App
 
 This is an implementation of Airtel App's Recharge screen in React Native.
 
